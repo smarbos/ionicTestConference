@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/damian/Crear/ionic-tutorial/conference/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebf985bde354de845aeba37f7199c88ca765fcb2">
+        <dex dex="/home/damian/Crear/ionic-tutorial/conference/platforms/android/build/intermediates/pre-dexed/debug/classes-bcdaf67ddf45977151144f3ea870534d9937f37d.jar" />
+    </item>
+
+</items>

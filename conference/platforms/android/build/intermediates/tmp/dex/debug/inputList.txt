@@ -1,0 +1,2 @@
+/home/damian/Crear/ionic-tutorial/conference/platforms/android/build/intermediates/classes/debug
+/home/damian/Crear/ionic-tutorial/conference/platforms/android/build/intermediates/pre-dexed/debug/classes-bcdaf67ddf45977151144f3ea870534d9937f37d.jar
